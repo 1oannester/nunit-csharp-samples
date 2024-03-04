@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/vanyachernov/Desktop/nunit-csharp-samples/nunit-csharp-samples/nunit-csharp-samples.csproj": {}
+    "/Users/vanyachernov/Desktop/All/Проекты/nunit-csharp-samples/nunit-csharp-samples/nunit-csharp-samples.csproj": {}
   },
   "projects": {
-    "/Users/vanyachernov/Desktop/nunit-csharp-samples/nunit-csharp-samples/nunit-csharp-samples.csproj": {
+    "/Users/vanyachernov/Desktop/All/Проекты/nunit-csharp-samples/nunit-csharp-samples/nunit-csharp-samples.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/vanyachernov/Desktop/nunit-csharp-samples/nunit-csharp-samples/nunit-csharp-samples.csproj",
+        "projectUniqueName": "/Users/vanyachernov/Desktop/All/Проекты/nunit-csharp-samples/nunit-csharp-samples/nunit-csharp-samples.csproj",
         "projectName": "nunit-csharp-samples",
-        "projectPath": "/Users/vanyachernov/Desktop/nunit-csharp-samples/nunit-csharp-samples/nunit-csharp-samples.csproj",
+        "projectPath": "/Users/vanyachernov/Desktop/All/Проекты/nunit-csharp-samples/nunit-csharp-samples/nunit-csharp-samples.csproj",
         "packagesPath": "/Users/vanyachernov/.nuget/packages/",
-        "outputPath": "/Users/vanyachernov/Desktop/nunit-csharp-samples/nunit-csharp-samples/obj/",
+        "outputPath": "/Users/vanyachernov/Desktop/All/Проекты/nunit-csharp-samples/nunit-csharp-samples/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/vanyachernov/.nuget/NuGet/NuGet.Config"
