@@ -1,3 +1,5 @@
+using System.Reflection.Metadata.Ecma335;
+
 /// <summary>
 /// A manager for a library's collection of books.
 /// </summary>
@@ -11,8 +13,12 @@ public class LibraryManager : ILibraryManager
     /// <param name="book">The book to add.</param>
     public void AddBook(Book book)
     {
+        if (book == null)
+        {
+            throw new ArgumentNullException(nameof(book));
+        }
+        
         _books.Add(book);
-        // TODO step 2.
     }
 
     /// <summary>
