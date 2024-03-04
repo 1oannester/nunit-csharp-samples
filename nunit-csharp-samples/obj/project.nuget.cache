@@ -1,10 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "qZoH09FjiVC6v1kJN5raDiuF3+eS52FqyYcXlqmoMSX0Zhf9Zjwg7/0FGzG6O2C+WWaxbBViq4pHqkgWIc8OLA==",
+  "dgSpecHash": "D/QTmb4+7cUYBkpVCfcvrqYnSUvc7EBbdqQbjt82ks0mgVJ03QUlvqWHD0PFPDVgrb6XjbvHCVgC+4kKJlKi9g==",
   "success": true,
   "projectFilePath": "C:\\Users\\Main\\Desktop\\nunit-csharp-samples\\nunit-csharp-samples\\nunit-csharp-samples.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Main\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512"
+    "C:\\Users\\Main\\.nuget\\packages\\microsoft.codecoverage\\17.9.0\\microsoft.codecoverage.17.9.0.nupkg.sha512",
+    "C:\\Users\\Main\\.nuget\\packages\\microsoft.net.test.sdk\\17.9.0\\microsoft.net.test.sdk.17.9.0.nupkg.sha512",
+    "C:\\Users\\Main\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.9.0\\microsoft.testplatform.objectmodel.17.9.0.nupkg.sha512",
+    "C:\\Users\\Main\\.nuget\\packages\\microsoft.testplatform.testhost\\17.9.0\\microsoft.testplatform.testhost.17.9.0.nupkg.sha512",
+    "C:\\Users\\Main\\.nuget\\packages\\mstest.testframework\\3.2.2\\mstest.testframework.3.2.2.nupkg.sha512",
+    "C:\\Users\\Main\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Main\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512",
+    "C:\\Users\\Main\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
   ],
   "logs": []
 }
